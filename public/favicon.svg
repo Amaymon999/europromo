@@ -1,0 +1,10 @@
+<svg viewBox="0 0 200 130" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="130" fill="#FAFAFA"/>
+  <path
+    d="M59 113C14 103-4 76 9 49 24 18 70 3 112 8L102 32C70 32 40 44 31 63 23 81 36 95 66 101Z M85 113L95 91C132 91 165 70 170 48 176 28 161 15 132 10L141 1C184 6 204 33 191 62 174 98 126 115 85 113Z"
+    fill="none"
+    stroke="#0A0A0A"
+    stroke-width="9"
+  />
+  <rect x="93" y="51" width="28" height="28" fill="#0052FF"/>
+</svg>
